@@ -18,8 +18,8 @@ block-mount coremark kmod-nf-nathelper kmod-nf-nathelper-extra kmod-ipt-raw wget
 default-settings luci luci-proto-relay luci-app-ddns luci-app-sqm luci-app-upnp luci-app-adbyby-plus luci-app-autoreboot \
 luci-app-filetransfer luci-app-vsftpd \
 luci-app-arpbind luci-app-vlmcsd luci-app-wol luci-app-ramfree \
-luci-app-passwall luci-app-v2ray-server luci-app-ssr-python-pro-server luci-app-pptp-vpnserver-manyusers luci-app-pppoe-relay luci-app-pppoe-server \
-luci-theme-argon-mod luci-theme-bootstrap-mod luci-theme-netgear-mc \
+luci-app-passwall luci-app-adguardhome \
+luci-theme-argon-mod luci-theme-bootstrap-mod \
 luci-app-sfe luci-app-flowoffload luci-app-nlbwmon \
 ddns-scripts_aliyun ddns-scripts_dnspod
 # For nas targets
