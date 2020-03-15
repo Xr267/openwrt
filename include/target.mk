@@ -20,7 +20,7 @@ luci-app-filetransfer luci-app-vsftpd \
 luci-app-arpbind luci-app-vlmcsd luci-app-wol luci-app-ramfree \
 luci-app-passwall luci-app-adguardhome \
 luci-theme-argon-mod luci-theme-bootstrap-mod \
-luci-app-sfe luci-app-flowoffload luci-app-nlbwmon \
+luci-app-sfe luci-app-flowoffload luci-app-nlbwmon luci-app-cpufreq \
 ddns-scripts_aliyun ddns-scripts_dnspod
 # For nas targets
 DEFAULT_PACKAGES.nas:=block-mount fdisk lsblk mdadm
